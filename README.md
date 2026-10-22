@@ -1,2 +1,1 @@
-# repo-testing
-Learning git
+Бурмалда
